@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="convert">Convert</string>
+    <string name="logo">Logo for the app</string>
+    <string-array name="money">
+        <item>Euros</item>
+        <item>Pesos (Mexican)</item>
+        <item>Pounds</item>
+        <item>Yen</item>
+    </string-array>
+</resources>
